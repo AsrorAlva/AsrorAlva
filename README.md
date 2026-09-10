@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Asror!</h1>
 
 <p align="center">
-  <img src="minion_laptop_walk_loop.gif" width="500" height="500" alt="Minion coding" />
+  <img src="minion_laptop_walk_loop.gif" width="300" height="300" alt="Minion coding" />
 </p>
 
 <p align="center">
