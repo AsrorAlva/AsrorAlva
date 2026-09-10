@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Asror 👋
 
-<!--
-**AsrorAlva/AsrorAlva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Full Stack Web Developer  
+🏫 Building digital solutions for education  
+🚀 Interested in AI, IoT, and automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,bun,hono,nodejs,postgres,docker,git,github" />
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+- 🏫 **MWS Support Hub** — Internal application launcher & SSO
+- 🗄️ **MWS Central Database** — Centralized employee & student management
+- 🌐 **MWS Website** — Modern CMS-powered school website
+- 🤖 Exploring AI & automation for school systems
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" />
+</p>
+
+---
+
+## 💡 Currently Learning
+
+- System Architecture
+- Full Stack Development
+- DevOps & Infrastructure
+- AI Integration
+- IoT & Automation
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO)
