@@ -1,8 +1,17 @@
+<div align="center">
+
 # Hi, I'm Asror 👋
+
+### contributions 205
+### level 42
+
+<img src="./assets/minion.gif" width="500" alt="Minion walking">
 
 💻 Junior Full Stack Web Developer  
 🏫 Building digital solutions for education  
 🚀 Interested in AI, IoT, and automation
+
+</div>
 
 ---
 
@@ -20,15 +29,6 @@
 - 🗄️ **MWS Central Database** — Centralized employee & student management
 - 🌐 **MWS Website** — Modern CMS-powered school website
 - 🤖 Exploring AI & automation for school systems
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" />
-</p>
 
 ---
 
